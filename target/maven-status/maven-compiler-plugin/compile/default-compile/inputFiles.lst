@@ -1,0 +1,14 @@
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/validatators/CategoriesValidator.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/model/Product.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/model/Categories.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/controller/AdminController.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/JewelleryApplication.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/services/CategoriesService.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/dao/CategoriesRepository.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/validatators/ProductValidator.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/services/CategoriesServiceImpl.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/services/ProductService.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/controller/CategoriesController.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/controller/ProductsController.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/services/ProductServiceImpl.java
+/home/novelirs/jewellery/src/main/java/com/jewellery/shop/dao/ProductRepository.java
